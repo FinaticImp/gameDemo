@@ -10,3 +10,4 @@ This is a new Git project initialized in the `gameDemo` directory.
 - 玩家需要躲避敌人的攻击，避免被敌人撞到
 - 玩家每成功躲避一次敌人攻击，得分就会增加
 - 玩家可以通过得分来排名，查看自己的排名
+# 游戏玩法
